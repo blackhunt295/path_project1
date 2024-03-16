@@ -19,5 +19,7 @@ public class regression {
 		d.get("https://www.target.com");
 		d.manage().window().maximize(); // maximize or minimized is by default
 		d.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		
+		/// Testing Just testing!!
 	}
 }

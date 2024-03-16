@@ -7,6 +7,6 @@
     <classes>
        <class name="runner.regressionTests"/>
     </classes>
-  </test>
+  </test> 
 
 </suite>
