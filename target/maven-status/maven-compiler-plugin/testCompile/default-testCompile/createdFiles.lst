@@ -1,2 +1,14 @@
+advancedSelenium\dropDown.class
+runner\regressionTests.class
+advancedSelenium\mouseHover.class
+common\googleBase.class
+steps\regression.class
+advancedSelenium\checkBox.class
 steps\searchProducts.class
-runner\testRunner.class
+advancedSelenium\switchWindowByTitle.class
+runner\smokeTests.class
+advancedSelenium\switchNewWindow.class
+advancedSelenium\drag_and_drop_Practice.class
+steps\regression2.class
+pages\googleHomePage.class
+steps\smoke.class

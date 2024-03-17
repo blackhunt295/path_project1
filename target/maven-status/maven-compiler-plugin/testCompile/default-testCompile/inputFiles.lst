@@ -1,2 +1,14 @@
-C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\runner\testRunner.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\advancedSelenium\checkBox.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\advancedSelenium\drag_and_drop_Practice.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\advancedSelenium\dropDown.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\advancedSelenium\mouseHover.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\advancedSelenium\switchNewWindow.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\advancedSelenium\switchWindowByTitle.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\common\googleBase.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\pages\googleHomePage.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\runner\regressionTests.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\runner\smokeTests.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\steps\regression.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\steps\regression2.java
 C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\steps\searchProducts.java
+C:\Users\NOVEL\eclipse-workspace\com.google.com.searchProducts\src\test\java\steps\smoke.java
